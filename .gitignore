@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.zip
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
